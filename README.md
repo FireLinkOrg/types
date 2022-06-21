@@ -1,2 +1,7 @@
-# Firelink Types
-Simple Type Definitions for the Lavalink API
+<div align="center">
+
+# @firelink/types
+
+</div>
+
+Simple type definitions for the [Lavalink API](https://github.com/freyacodes/Lavalink/blob/master/IMPLEMENTATION.md)
